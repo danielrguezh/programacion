@@ -4,6 +4,9 @@
 
 - [Ejercicio 1](#ejercicio1)
 - [Ejercicio 2](#ejercicio2)
+- [Ejercicio 3](#ejercicio3)
+- [Ejercicio 4](#ejercicio4)
+- [Ejercicio 5](#ejercicio5)
 
 ## Ejercicio 1 <a name="ejercicio1"></a>
 
@@ -11,7 +14,7 @@ Desarrolle un algoritmo que permita leer dos valores deistintos, determinar cual
 
 ### Diagrama de flujo
 
-<img src="images/Diagrama_de_flujo.drawio.png">
+<img src="images/Diagramaflujo1.drawio.png">
 
 ### Pseudocódigo
 Pasos
